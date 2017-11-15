@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594491356542",
+    "firebase_url": "https://geolocation-database-7ac59.firebaseio.com",
+    "project_id": "geolocation-database-7ac59",
+    "storage_bucket": "geolocation-database-7ac59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594491356542:android:b7d7c1930bdd44e7",
+        "android_client_info": {
+          "package_name": "com.tabian.firebasereaddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594491356542-00e4rl09cmtvtkekvtp5i1k55ims7var.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabian.firebasereaddata",
+            "certificate_hash": "d279f3d39f4ff4a432d5208c6ed5d4686ee2aaf1"
+          }
+        },
+        {
+          "client_id": "594491356542-b88vdgu112ea61slop0s6rdkhi5cg7lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSSRKbD16DHda8a0DIgxDILtReM9N99I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594491356542-b88vdgu112ea61slop0s6rdkhi5cg7lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

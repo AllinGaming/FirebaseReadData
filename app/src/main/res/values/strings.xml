@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fancy stuff</string>
+    <string name="title_activity_navigation_drawer_map">NavigationDrawerMap</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="maps_api_key">AIzaSyCvoiPNJEKsV1Css9R4Iw0U9JrRW7Swb18</string>
+    <string name="action_settings">Settings</string>
+</resources>
